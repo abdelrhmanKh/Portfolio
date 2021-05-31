@@ -569,9 +569,9 @@ section {
   opacity: 0;
 }
 
-.portfolio .portfolio-wrap img {
+/* .portfolio .portfolio-wrap img {
   max-width: 516px;
-}
+} */
 
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
@@ -614,11 +614,11 @@ section {
   opacity: 1;
   bottom: 0;
 }
-@media (max-width:768px){
+/* @media (max-width:768px){
   .portfolio .portfolio-wrap img {
     width: 336px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details
