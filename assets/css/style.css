@@ -614,6 +614,7 @@ section {
   opacity: 1;
   bottom: 0;
 }
+
 /* @media (max-width:768px){
   .portfolio .portfolio-wrap img {
     width: 336px;
@@ -761,7 +762,8 @@ section {
   transform: rotate( 137deg);
 }
 
-.services .title::after
+.services .title::after {}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -852,10 +854,6 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-
-section#contact {
-  background: #f5f8fd;
-}
 
 .contact {
   padding-bottom: 130px;
